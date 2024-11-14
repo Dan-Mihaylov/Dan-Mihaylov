@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Dan-Mihaylov/Dan-Mihaylov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi 👋, it's me, Dan 👨🏻‍💻
+## Hi 👋, it's me, Dan 👨🏻‍💻
 Welcome to my GitHub profile! 
 
 I am a passionate and dedicated software developer who's been coding actively for the past two years. Over the past year and a bit, I have occasionally taken on some freelance consulting and software development projects and worked on building my skills by applying what I have learnt to real-life scenarios.
