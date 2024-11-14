@@ -58,7 +58,7 @@ I am a passionate and dedicated software developer who's been coding actively fo
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dan-Mihaylov&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-![Snake animation](https://github.com/Dan-Mihaylov/Dan-Mihaylov.github.io/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dan-Mihaylov/Dan-Mihaylov/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
