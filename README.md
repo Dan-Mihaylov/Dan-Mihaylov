@@ -20,6 +20,10 @@ Welcome to my GitHub profile!
 
 I am a passionate and dedicated software developer who's been coding actively for the past two years. Over the past year and a bit, I have occasionally taken on some freelance consulting and software development projects and worked on building my skills by applying what I have learnt to real-life scenarios.
 
+One of my key projects includes developing the <strong>Golden Bull Restaurant Loyalty App</strong>, a platform that enhances customer engagement and retention by offering loyalty rewards, personalized promotions, and valuable insights for restaurant owners through data visualization.
+
+<a href="https://loyalty.goldenbull.uk">Golden Bull Loyalty App<a/>
+
 <br>
 
 <h3 align="left">Some of the technologies I use:</h3>
